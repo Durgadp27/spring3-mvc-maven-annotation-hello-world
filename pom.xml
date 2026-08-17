@@ -61,5 +61,10 @@
 
 		</plugins>
 	</build>
-
+<distributionManagement>
+    <snapshotRepository>
+        <id>nexus-snapshots</id>
+        <url>http://65.0.173.149:8081/repository/spring-snapshots/</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
