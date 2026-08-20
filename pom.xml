@@ -66,9 +66,9 @@
 		</plugins>
 	</build>
 <distributionManagement>
-    <snapshotRepository>
-        <id>nexus-snapshots</id>
-        <url>http://65.0.173.149:8081/repository/spring-snapshots/</url>
-    </snapshotRepository>
+    <repository>
+        <id>nexus</id>
+        <url>http://13.235.90.236:8081/repository/maven-released/</url>
+    </repository>
 </distributionManagement>
 </project>
