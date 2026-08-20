@@ -68,7 +68,7 @@
 <distributionManagement>
     <repository>
         <id>nexus</id>
-        <url>http://13.235.90.236:8081/repository/maven-released/</url>
+        <url>http://13.235.90.236:8081/repository/maven-snapshot-repo/</url>
     </repository>
 </distributionManagement>
 </project>
